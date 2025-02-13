@@ -19,7 +19,7 @@ This project analyzes sales and profit data from a Super Store using SQL, PySpar
 ## Setup & Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <https://github.com/SatwikaKadiyala/Super-Store-Profit->
    ```
 2. Install dependencies:
    ```sh
